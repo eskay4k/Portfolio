@@ -1,0 +1,211 @@
+{
+  "reel": {
+    "title": "showreel",
+    "id": "showreel",
+    "video": "assets/showreel.mp4",
+    "poster": "assets/showreel-poster.webp",
+    "preview": false
+  },
+  "videos": [
+    {
+      "title": "dubai",
+      "category": "motion",
+      "id": "dubai",
+      "video": "assets/dubai.mp4",
+      "poster": "assets/dubai-poster.webp",
+      "preview": true
+    },
+    {
+      "title": "fd irl",
+      "category": "long-form",
+      "id": "fd-irl",
+      "video": "assets/fd-irl.mp4",
+      "poster": "assets/fd-irl-poster.webp",
+      "preview": true
+    },
+    {
+      "title": "jared day in the life",
+      "category": "long-form",
+      "id": "jared-day-in-the-life",
+      "video": "assets/jared-day-in-the-life.mp4",
+      "poster": "assets/jared-day-in-the-life-poster.webp",
+      "preview": true
+    },
+    {
+      "title": "pulsar fd x alt",
+      "category": "long-form",
+      "id": "pulsar-fd-x-alt",
+      "video": "assets/pulsar-fd-x-alt.mp4",
+      "poster": "assets/pulsar-fd-x-alt-poster.webp",
+      "preview": true
+    },
+    {
+      "title": "astro x ezant duotage",
+      "category": "fortnite",
+      "id": "astro-x-ezant-duotage",
+      "video": "assets/astro-x-ezant-duotage.mp4",
+      "poster": "assets/astro-x-ezant-duotage-poster.webp",
+      "preview": true
+    },
+    {
+      "id": "iomod-x-aria-duotage",
+      "title": "iomod x aria duotage",
+      "category": "fortnite",
+      "video": "assets/iomod-x-aria-duotage.mp4",
+      "poster": "assets/iomod-x-aria-duotage-poster.webp",
+      "preview": false
+    },
+    {
+      "id": "eskays-first-ident",
+      "title": "eskays first ident",
+      "category": "motion",
+      "video": "assets/eskays-first-ident.mp4",
+      "poster": "assets/eskays-first-ident-poster.webp",
+      "preview": false
+    },
+    {
+      "id": "ryan-ident",
+      "title": "ryan ident",
+      "category": "motion",
+      "video": "assets/ryan-ident.mp4",
+      "poster": "assets/ryan-ident-poster.webp",
+      "preview": false
+    }
+  ],
+  "thumbnails": [
+    {
+      "title": "kicking members",
+      "image": "assets/kicking-members-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "limit setup tours",
+      "image": "assets/limit-setup-tours-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "mongraal best keyboard",
+      "image": "assets/mongraal-best-keyboard-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "new swerve skin thumbnail",
+      "image": "assets/new-swerve-skin-thunbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "psr birthday stream",
+      "image": "assets/psr-birthday-stream-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "psr la vlog",
+      "image": "assets/psr-la-vlog-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "psr uno",
+      "image": "assets/psr-uno-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "psr vlog",
+      "image": "assets/psr-vlog-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "the most scuffed 5 stack",
+      "image": "assets/the-most-scuffed-5-stack-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "elevated",
+      "image": "assets/elevated-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "infinity 888",
+      "image": "assets/infinity-888-thumbnail.webp",
+      "type": "thumbnail"
+    },
+    {
+      "title": "way bigger",
+      "image": "assets/way-bigger-thumbnail.webp",
+      "type": "thumbnail"
+    }
+  ],
+  "designs": [
+    {
+      "title": "pulsar beanie black",
+      "image": "assets/psr-beanie-black.webp",
+      "type": "design"
+    },
+    {
+      "title": "pulsar buckethat",
+      "image": "assets/psr-buckethat.webp",
+      "type": "design"
+    },
+    {
+      "title": "pulsar cordouroy hat",
+      "image": "assets/psr-cordouroy-hat.webp",
+      "type": "design"
+    },
+    {
+      "title": "pulsar crewneck black",
+      "image": "assets/psr-crewneck-black.webp",
+      "type": "design"
+    },
+    {
+      "title": "pulsar crewneck grey",
+      "image": "assets/psr-crewneck-grey.webp",
+      "type": "design"
+    },
+    {
+      "title": "pulsar flower tote",
+      "image": "assets/psr-flower-tote.webp",
+      "type": "design"
+    }
+  ],
+  "collections": [
+    {
+      "id": "content",
+      "title": "content videos",
+      "items": [
+        "long-form"
+      ],
+      "cover": "assets/content-cover.png"
+    },
+    {
+      "id": "montages",
+      "title": "montages",
+      "items": [
+        "fortnite"
+      ],
+      "cover": "assets/montages-cover.png"
+    },
+    {
+      "id": "thumbnails",
+      "title": "thumbnails",
+      "items": [
+        "thumbnail"
+      ],
+      "cover": "assets/thumbnails-cover.png"
+    },
+    {
+      "id": "motion",
+      "title": "motion design",
+      "items": [
+        "motion"
+      ],
+      "cover": "assets/motion-cover.png"
+    },
+    {
+      "id": "design",
+      "title": "apparel",
+      "items": [
+        "design"
+      ],
+      "cover": "assets/apparel-cover.png"
+    }
+  ]
+}
